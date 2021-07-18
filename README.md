@@ -9,8 +9,8 @@ new change to go to testBranch
 change number 1
 change number 2 from subbranch
 change number 2 from main
-change in test branch from ui
-ch 1 in tutorial2 in testBranch
-c1 t1 in testBranch
-c2 t2 in testBranch
-c2 t1 in testBranch
+change number 2 from subbranch
+change number 3 from main
+change number 4 from main
+c1 in main branch
+c1 t2 scratch
